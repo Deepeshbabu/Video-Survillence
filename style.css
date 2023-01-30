@@ -1,0 +1,39 @@
+body 
+{
+    background-size: cover;
+}
+
+.heading 
+{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+
+#start, #nob, #status
+{
+    font-size: 18px;
+}
+
+.cpr
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    box-shadow: 3px 3px 3px grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+canvas 
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
